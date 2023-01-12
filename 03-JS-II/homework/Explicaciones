@@ -1,0 +1,18 @@
+## Instrucciones
+---
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for` 
+// Es una herramienta que se utiliza para iterar, es decir, repetir una acción dentro del código hasta obtener un cierto número de iteraciones o un resultado concreto" //
+
+
+* `&&`
+// Es un operador lógico que utilizaremos para evaluar expresiones. Puntualmente, este operador arroja un valor TRUE si todas las expresiones son verdaderas y FALSE si hay alguna que no se cumple //
+
+
+* `||`
+// Es un operador lógico que utilizaremos para evaluar expresiones en funciones. A diferencia del anterior, este operador arroja un valor TRUE si se cumple alguna de las expresiones evaluadas y arroja FALSE si todas son negatuvas.//
+
+
+* `!` 
+// Este operador lógico, al ser utilizado dentro de una función, hará que dicha función devuelva el valor booleano opuesto al que originalmente arrojaría. // 

@@ -1,0 +1,16 @@
+ * Variables: // Las variables son elementos en donde podemos almancenar valores 
+                //para utilizarse más tarde.
+ * Strings: // Tipo de datos correspondiente a bloques de texto.
+                
+ * Funciones (argumentos, `return`) // Las funciones son herramientas que nos ayudan
+                // a llevar a cabo acciones. Estas herramientas necesitan información
+                // para funcionar, esa información son los argumentos. Algunas funciones
+                // pueden devolver valores, estos se pueden proyectar en la consola 
+                // escribiendo "return" dentro de la función.
+
+ * Declaraciones `if`// Los IF son una herramienta que nos ayuda a condicionar cierta 
+                // información, si la condición se cumple se puede devolver un valor
+                // en caso contrario, se puede devolver otro.
+
+ * Valores booleanos (`true`, `false`)// Los valores booleanos pueden ser "True" o "False"
+                // Estos valores nos pueden ayudar a realizar diversas acciones.
