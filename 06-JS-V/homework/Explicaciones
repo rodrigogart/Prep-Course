@@ -1,0 +1,7 @@
+¿Qué son 'prototype' y 'constructors'?
+
+Prototype es un método que utilizamos para usar objetos como "plantilla", usando prototype 
+podemos heredar características entre objetos.
+
+Por otro lado, los constructors son métodos que nos permiten crear un objeto nuevo partiendo
+de una clase previamente establecida.

@@ -1,0 +1,33 @@
+#nombre {
+    color:blueviolet;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 10px;
+}
+
+#thirdDiv {
+    background-color:aquamarine;
+    height: 600px;
+    width: 500px;
+    padding: 50px;
+    border: solid blue;
+}
+
+#imagenWrap {
+    width: 400px;
+}
+
+body {
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cdc.gov%2Ffoodsafety%2Fes%2Fcommunication%2Fsteps-healthy-fruits-veggies.html&psig=AOvVaw2yARioOj0lsuDsH88VLl2Q&ust=1675454061744000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLjQv_TO9_wCFQAAAAAdAAAAABAE);
+    background-repeat: repeat;
+}
+
+div {
+    text-align: center;
+}
+
+body {
+    position:fixed;
+}

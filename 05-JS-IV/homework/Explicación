@@ -1,0 +1,15 @@
+¿Qué son los siguientes elementos?
+
+Objetos: Los objetos son estructuras que, como los arrays, son contenedoras de información.
+Sin embargo, a diferencia de los arrays, los objetos pueden contener más información detallada
+y se puede navegar con mayor facilidad a través de ellos usando los nombres de las propiedades.
+
+Propiedades: Las propiedades en los objetos, son los apartados que contendrán la información.
+Las propiedades detallan la información y se diferencían a través de las Keys. La información
+dentro de la propiedad es el Value.
+
+Métodos: Los métodos son funciones ejecutables dentro de un objeto.
+
+Bucle for…in: Este elemento se utiliza para iterar dentro de un objeto, tiene una sitaxis diferente al ciclo for regular utilizado en funciones.
+
+Notación de puntos vs notación de corchetes: Se puede utilizar cualquiera para asignar nuevos valores dentro de los objetos, para invocarlos y para eliminar valores.

@@ -1,0 +1,5 @@
+Arrays, ¿Qué son?
+
+Los arrays son una estructura utilizada en JS para poder manipular múltiples eleméntos
+y para realizar operaciones con ellos. Los arrays se pueden visualizar de manera "matematica"
+como una matriz de n elementos.
